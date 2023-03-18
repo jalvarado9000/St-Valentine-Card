@@ -204,7 +204,7 @@ footer > p{
 
 
   body {
-    background: url('../images/us-collage.jpg');
+    background: url("../images/us-collage.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
